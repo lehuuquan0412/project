@@ -1,0 +1,17 @@
+[
+ {
+  "path": "/packages/iot/pahomqtt", 
+  "ver": "v1.1.0", 
+  "name": "PAHOMQTT"
+ }, 
+ {
+  "path": "/packages/iot/ppp_device", 
+  "ver": "v1.1.0", 
+  "name": "PPP_DEVICE"
+ }, 
+ {
+  "path": "/packages/language/JSON/jsmn", 
+  "ver": "v0.1.0", 
+  "name": "JSMN"
+ }
+]
